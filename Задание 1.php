@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Azure PHP test site</title>
 </head>
 <body>
 <h2> Результат:</h2>
